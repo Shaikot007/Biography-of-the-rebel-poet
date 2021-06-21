@@ -1,27 +1,27 @@
 body {
-    margin-top: 75px;
-    margin-right: 50px;
-    margin-bottom: 20px;
-    margin-left: 50px;
-  }
-  
-  .headline {
-    font-size: 50px;
-  }
-  
-  .subheadline {
-    font-style: italic;
-  }
-  
-  .poem-block {
-    padding-top: 15px;
-    padding-bottom: 15px;
-  }
-  
-  .wikipidia-link {
-    padding-top: 40px;
-  }
-  
-  .bottom-line {
-    padding-top: 100px;
-  }
+  margin-top: 75px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+
+.headline {
+  font-size: 50px;
+}
+
+.subheadline {
+  font-style: italic;
+}
+
+.poem-block {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.wikipidia-link {
+  padding-top: 40px;
+}
+
+.bottom-line {
+  padding-top: 100px;
+}
